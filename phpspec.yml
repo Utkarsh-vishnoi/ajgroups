@@ -1,5 +1,0 @@
-suites:
-    main:
-        namespace: ajgroups
-        psr4_prefix: ajgroups
-        src_path: app
